@@ -1,0 +1,7 @@
+C:\Users\cauef\source\repos\MVC_Vendedores\MVC_Vendedores\obj\Debug\net8.0-windows\MVC_Vendedores.Form1.resources
+C:\Users\cauef\source\repos\MVC_Vendedores\MVC_Vendedores\obj\Debug\net8.0-windows\MVC_Vendedores.csproj.GenerateResource.cache
+C:\Users\cauef\source\repos\MVC_Vendedores\MVC_Vendedores\obj\Debug\net8.0-windows\MVC_Vendedores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauef\source\repos\MVC_Vendedores\MVC_Vendedores\obj\Debug\net8.0-windows\MVC_Vendedores.AssemblyInfoInputs.cache
+C:\Users\cauef\source\repos\MVC_Vendedores\MVC_Vendedores\obj\Debug\net8.0-windows\MVC_Vendedores.AssemblyInfo.cs
+C:\Users\cauef\source\repos\MVC_Vendedores\MVC_Vendedores\obj\Debug\net8.0-windows\MVC_Vendedores.csproj.CoreCompileInputs.cache
+C:\Users\cauef\source\repos\MVC_Vendedores\MVC_Vendedores\obj\Debug\net8.0-windows\MVC_Vendedores.MainForm.resources
