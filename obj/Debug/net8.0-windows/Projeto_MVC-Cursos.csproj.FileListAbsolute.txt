@@ -1,0 +1,17 @@
+C:\Users\cauef\source\repos\Projeto_MVC-Cursos\Projeto_MVC-Cursos\bin\Debug\net8.0-windows\Projeto_MVC-Cursos.exe
+C:\Users\cauef\source\repos\Projeto_MVC-Cursos\Projeto_MVC-Cursos\bin\Debug\net8.0-windows\Projeto_MVC-Cursos.deps.json
+C:\Users\cauef\source\repos\Projeto_MVC-Cursos\Projeto_MVC-Cursos\bin\Debug\net8.0-windows\Projeto_MVC-Cursos.runtimeconfig.json
+C:\Users\cauef\source\repos\Projeto_MVC-Cursos\Projeto_MVC-Cursos\bin\Debug\net8.0-windows\Projeto_MVC-Cursos.dll
+C:\Users\cauef\source\repos\Projeto_MVC-Cursos\Projeto_MVC-Cursos\bin\Debug\net8.0-windows\Projeto_MVC-Cursos.pdb
+C:\Users\cauef\source\repos\Projeto_MVC-Cursos\Projeto_MVC-Cursos\obj\Debug\net8.0-windows\Projeto_MVC_Cursos.Form1.resources
+C:\Users\cauef\source\repos\Projeto_MVC-Cursos\Projeto_MVC-Cursos\obj\Debug\net8.0-windows\Projeto_MVC-Cursos.csproj.GenerateResource.cache
+C:\Users\cauef\source\repos\Projeto_MVC-Cursos\Projeto_MVC-Cursos\obj\Debug\net8.0-windows\Projeto_MVC-Cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauef\source\repos\Projeto_MVC-Cursos\Projeto_MVC-Cursos\obj\Debug\net8.0-windows\Projeto_MVC-Cursos.AssemblyInfoInputs.cache
+C:\Users\cauef\source\repos\Projeto_MVC-Cursos\Projeto_MVC-Cursos\obj\Debug\net8.0-windows\Projeto_MVC-Cursos.AssemblyInfo.cs
+C:\Users\cauef\source\repos\Projeto_MVC-Cursos\Projeto_MVC-Cursos\obj\Debug\net8.0-windows\Projeto_MVC-Cursos.csproj.CoreCompileInputs.cache
+C:\Users\cauef\source\repos\Projeto_MVC-Cursos\Projeto_MVC-Cursos\obj\Debug\net8.0-windows\Projeto_MVC-Cursos.sourcelink.json
+C:\Users\cauef\source\repos\Projeto_MVC-Cursos\Projeto_MVC-Cursos\obj\Debug\net8.0-windows\Projeto_MVC-Cursos.dll
+C:\Users\cauef\source\repos\Projeto_MVC-Cursos\Projeto_MVC-Cursos\obj\Debug\net8.0-windows\refint\Projeto_MVC-Cursos.dll
+C:\Users\cauef\source\repos\Projeto_MVC-Cursos\Projeto_MVC-Cursos\obj\Debug\net8.0-windows\Projeto_MVC-Cursos.pdb
+C:\Users\cauef\source\repos\Projeto_MVC-Cursos\Projeto_MVC-Cursos\obj\Debug\net8.0-windows\Projeto_MVC-Cursos.genruntimeconfig.cache
+C:\Users\cauef\source\repos\Projeto_MVC-Cursos\Projeto_MVC-Cursos\obj\Debug\net8.0-windows\ref\Projeto_MVC-Cursos.dll
