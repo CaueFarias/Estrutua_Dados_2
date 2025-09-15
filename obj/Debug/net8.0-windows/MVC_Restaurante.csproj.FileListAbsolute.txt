@@ -1,0 +1,17 @@
+C:\Users\cauef\source\repos\MVC_Restaurante\MVC_Restaurante\bin\Debug\net8.0-windows\MVC_Restaurante.exe
+C:\Users\cauef\source\repos\MVC_Restaurante\MVC_Restaurante\bin\Debug\net8.0-windows\MVC_Restaurante.deps.json
+C:\Users\cauef\source\repos\MVC_Restaurante\MVC_Restaurante\bin\Debug\net8.0-windows\MVC_Restaurante.runtimeconfig.json
+C:\Users\cauef\source\repos\MVC_Restaurante\MVC_Restaurante\bin\Debug\net8.0-windows\MVC_Restaurante.dll
+C:\Users\cauef\source\repos\MVC_Restaurante\MVC_Restaurante\bin\Debug\net8.0-windows\MVC_Restaurante.pdb
+C:\Users\cauef\source\repos\MVC_Restaurante\MVC_Restaurante\obj\Debug\net8.0-windows\MVC_Restaurante.Form1.resources
+C:\Users\cauef\source\repos\MVC_Restaurante\MVC_Restaurante\obj\Debug\net8.0-windows\MVC_Restaurante.csproj.GenerateResource.cache
+C:\Users\cauef\source\repos\MVC_Restaurante\MVC_Restaurante\obj\Debug\net8.0-windows\MVC_Restaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauef\source\repos\MVC_Restaurante\MVC_Restaurante\obj\Debug\net8.0-windows\MVC_Restaurante.AssemblyInfoInputs.cache
+C:\Users\cauef\source\repos\MVC_Restaurante\MVC_Restaurante\obj\Debug\net8.0-windows\MVC_Restaurante.AssemblyInfo.cs
+C:\Users\cauef\source\repos\MVC_Restaurante\MVC_Restaurante\obj\Debug\net8.0-windows\MVC_Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\cauef\source\repos\MVC_Restaurante\MVC_Restaurante\obj\Debug\net8.0-windows\MVC_Restaurante.sourcelink.json
+C:\Users\cauef\source\repos\MVC_Restaurante\MVC_Restaurante\obj\Debug\net8.0-windows\MVC_Restaurante.dll
+C:\Users\cauef\source\repos\MVC_Restaurante\MVC_Restaurante\obj\Debug\net8.0-windows\refint\MVC_Restaurante.dll
+C:\Users\cauef\source\repos\MVC_Restaurante\MVC_Restaurante\obj\Debug\net8.0-windows\MVC_Restaurante.pdb
+C:\Users\cauef\source\repos\MVC_Restaurante\MVC_Restaurante\obj\Debug\net8.0-windows\MVC_Restaurante.genruntimeconfig.cache
+C:\Users\cauef\source\repos\MVC_Restaurante\MVC_Restaurante\obj\Debug\net8.0-windows\ref\MVC_Restaurante.dll
