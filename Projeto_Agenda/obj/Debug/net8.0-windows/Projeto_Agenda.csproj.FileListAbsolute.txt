@@ -1,0 +1,7 @@
+C:\Users\cauef\source\repos\Projeto_Agenda\Projeto_Agenda\obj\Debug\net8.0-windows\Projeto_Agenda.Form1.resources
+C:\Users\cauef\source\repos\Projeto_Agenda\Projeto_Agenda\obj\Debug\net8.0-windows\Projeto_Agenda.csproj.GenerateResource.cache
+C:\Users\cauef\source\repos\Projeto_Agenda\Projeto_Agenda\obj\Debug\net8.0-windows\Projeto_Agenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauef\source\repos\Projeto_Agenda\Projeto_Agenda\obj\Debug\net8.0-windows\Projeto_Agenda.AssemblyInfoInputs.cache
+C:\Users\cauef\source\repos\Projeto_Agenda\Projeto_Agenda\obj\Debug\net8.0-windows\Projeto_Agenda.AssemblyInfo.cs
+C:\Users\cauef\source\repos\Projeto_Agenda\Projeto_Agenda\obj\Debug\net8.0-windows\Projeto_Agenda.csproj.CoreCompileInputs.cache
+C:\Users\cauef\source\repos\Projeto_Agenda\Projeto_Agenda\obj\Debug\net8.0-windows\Projeto_Agenda.sourcelink.json

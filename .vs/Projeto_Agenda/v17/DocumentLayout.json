@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cauef\\source\\repos\\Projeto_Agenda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{886FE2F1-5CBE-40F2-9E5C-6954C5383140}|Projeto_Agenda\\Projeto_Agenda.csproj|c:\\users\\cauef\\source\\repos\\projeto_agenda\\projeto_agenda\\models\\telefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886FE2F1-5CBE-40F2-9E5C-6954C5383140}|Projeto_Agenda\\Projeto_Agenda.csproj|solutionrelative:projeto_agenda\\models\\telefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886FE2F1-5CBE-40F2-9E5C-6954C5383140}|Projeto_Agenda\\Projeto_Agenda.csproj|c:\\users\\cauef\\source\\repos\\projeto_agenda\\projeto_agenda\\models\\contatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886FE2F1-5CBE-40F2-9E5C-6954C5383140}|Projeto_Agenda\\Projeto_Agenda.csproj|solutionrelative:projeto_agenda\\models\\contatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886FE2F1-5CBE-40F2-9E5C-6954C5383140}|Projeto_Agenda\\Projeto_Agenda.csproj|c:\\users\\cauef\\source\\repos\\projeto_agenda\\projeto_agenda\\models\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886FE2F1-5CBE-40F2-9E5C-6954C5383140}|Projeto_Agenda\\Projeto_Agenda.csproj|solutionrelative:projeto_agenda\\models\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886FE2F1-5CBE-40F2-9E5C-6954C5383140}|Projeto_Agenda\\Projeto_Agenda.csproj|c:\\users\\cauef\\source\\repos\\projeto_agenda\\projeto_agenda\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886FE2F1-5CBE-40F2-9E5C-6954C5383140}|Projeto_Agenda\\Projeto_Agenda.csproj|solutionrelative:projeto_agenda\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886FE2F1-5CBE-40F2-9E5C-6954C5383140}|Projeto_Agenda\\Projeto_Agenda.csproj|c:\\users\\cauef\\source\\repos\\projeto_agenda\\projeto_agenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886FE2F1-5CBE-40F2-9E5C-6954C5383140}|Projeto_Agenda\\Projeto_Agenda.csproj|solutionrelative:projeto_agenda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886FE2F1-5CBE-40F2-9E5C-6954C5383140}|Projeto_Agenda\\Projeto_Agenda.csproj|c:\\users\\cauef\\source\\repos\\projeto_agenda\\projeto_agenda\\projeto_agenda.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{886FE2F1-5CBE-40F2-9E5C-6954C5383140}|Projeto_Agenda\\Projeto_Agenda.csproj|solutionrelative:projeto_agenda\\projeto_agenda.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886FE2F1-5CBE-40F2-9E5C-6954C5383140}|Projeto_Agenda\\Projeto_Agenda.csproj|c:\\users\\cauef\\source\\repos\\projeto_agenda\\projeto_agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{886FE2F1-5CBE-40F2-9E5C-6954C5383140}|Projeto_Agenda\\Projeto_Agenda.csproj|solutionrelative:projeto_agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Projeto_Agenda",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Agenda\\Projeto_Agenda\\Projeto_Agenda.csproj",
+              "RelativeDocumentMoniker": "Projeto_Agenda\\Projeto_Agenda.csproj",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Agenda\\Projeto_Agenda\\Projeto_Agenda.csproj",
+              "RelativeToolTip": "Projeto_Agenda\\Projeto_Agenda.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-22T21:48:47.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Agenda\\Projeto_Agenda\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto_Agenda\\Program.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Agenda\\Projeto_Agenda\\Program.cs",
+              "RelativeToolTip": "Projeto_Agenda\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T21:44:20.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contatos.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Agenda\\Projeto_Agenda\\Models\\Contatos.cs",
+              "RelativeDocumentMoniker": "Projeto_Agenda\\Models\\Contatos.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Agenda\\Projeto_Agenda\\Models\\Contatos.cs",
+              "RelativeToolTip": "Projeto_Agenda\\Models\\Contatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T21:46:22.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Agenda\\Projeto_Agenda\\Models\\Contato.cs",
+              "RelativeDocumentMoniker": "Projeto_Agenda\\Models\\Contato.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Agenda\\Projeto_Agenda\\Models\\Contato.cs",
+              "RelativeToolTip": "Projeto_Agenda\\Models\\Contato.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T21:45:03.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Telefone.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Agenda\\Projeto_Agenda\\Models\\Telefone.cs",
+              "RelativeDocumentMoniker": "Projeto_Agenda\\Models\\Telefone.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Agenda\\Projeto_Agenda\\Models\\Telefone.cs",
+              "RelativeToolTip": "Projeto_Agenda\\Models\\Telefone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T21:44:32.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Agenda\\Projeto_Agenda\\Models\\Data.cs",
+              "RelativeDocumentMoniker": "Projeto_Agenda\\Models\\Data.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Agenda\\Projeto_Agenda\\Models\\Data.cs",
+              "RelativeToolTip": "Projeto_Agenda\\Models\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T21:43:02.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Agenda\\Projeto_Agenda\\Form1.cs",
+              "RelativeDocumentMoniker": "Projeto_Agenda\\Form1.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Agenda\\Projeto_Agenda\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Projeto_Agenda\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T21:42:22.901Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
