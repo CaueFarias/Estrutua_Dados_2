@@ -1,0 +1,8 @@
+C:\Users\cauef\source\repos\Listas-Agenda(WFA)\Listas-Agenda(WFA)\obj\Debug\net8.0-windows\Listas_Agenda_WFA_.Forms.AddContatoForm.resources
+C:\Users\cauef\source\repos\Listas-Agenda(WFA)\Listas-Agenda(WFA)\obj\Debug\net8.0-windows\Listas_Agenda_WFA_.Forms.SearchForm.resources
+C:\Users\cauef\source\repos\Listas-Agenda(WFA)\Listas-Agenda(WFA)\obj\Debug\net8.0-windows\Listas-Agenda(WFA).csproj.GenerateResource.cache
+C:\Users\cauef\source\repos\Listas-Agenda(WFA)\Listas-Agenda(WFA)\obj\Debug\net8.0-windows\Listas-Agenda(WFA).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauef\source\repos\Listas-Agenda(WFA)\Listas-Agenda(WFA)\obj\Debug\net8.0-windows\Listas-Agenda(WFA).AssemblyInfoInputs.cache
+C:\Users\cauef\source\repos\Listas-Agenda(WFA)\Listas-Agenda(WFA)\obj\Debug\net8.0-windows\Listas-Agenda(WFA).AssemblyInfo.cs
+C:\Users\cauef\source\repos\Listas-Agenda(WFA)\Listas-Agenda(WFA)\obj\Debug\net8.0-windows\Listas-Agenda(WFA).csproj.CoreCompileInputs.cache
+C:\Users\cauef\source\repos\Listas-Agenda(WFA)\Listas-Agenda(WFA)\obj\Debug\net8.0-windows\Listas-Agenda(WFA).sourcelink.json
