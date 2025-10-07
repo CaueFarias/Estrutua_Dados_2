@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cauef\\source\\repos\\Projeto_Listas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB7D2DE-239C-4475-80AB-9A4D59B31ABB}|Projeto_Listas\\Projeto_Listas.csproj|c:\\users\\cauef\\source\\repos\\projeto_listas\\projeto_listas\\adicionarlivro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB7D2DE-239C-4475-80AB-9A4D59B31ABB}|Projeto_Listas\\Projeto_Listas.csproj|solutionrelative:projeto_listas\\adicionarlivro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB7D2DE-239C-4475-80AB-9A4D59B31ABB}|Projeto_Listas\\Projeto_Listas.csproj|c:\\users\\cauef\\source\\repos\\projeto_listas\\projeto_listas\\adicionarlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAB7D2DE-239C-4475-80AB-9A4D59B31ABB}|Projeto_Listas\\Projeto_Listas.csproj|solutionrelative:projeto_listas\\adicionarlivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB7D2DE-239C-4475-80AB-9A4D59B31ABB}|Projeto_Listas\\Projeto_Listas.csproj|c:\\users\\cauef\\source\\repos\\projeto_listas\\projeto_listas\\menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB7D2DE-239C-4475-80AB-9A4D59B31ABB}|Projeto_Listas\\Projeto_Listas.csproj|solutionrelative:projeto_listas\\menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB7D2DE-239C-4475-80AB-9A4D59B31ABB}|Projeto_Listas\\Projeto_Listas.csproj|c:\\users\\cauef\\source\\repos\\projeto_listas\\projeto_listas\\models\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB7D2DE-239C-4475-80AB-9A4D59B31ABB}|Projeto_Listas\\Projeto_Listas.csproj|solutionrelative:projeto_listas\\models\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB7D2DE-239C-4475-80AB-9A4D59B31ABB}|Projeto_Listas\\Projeto_Listas.csproj|c:\\users\\cauef\\source\\repos\\projeto_listas\\projeto_listas\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB7D2DE-239C-4475-80AB-9A4D59B31ABB}|Projeto_Listas\\Projeto_Listas.csproj|solutionrelative:projeto_listas\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB7D2DE-239C-4475-80AB-9A4D59B31ABB}|Projeto_Listas\\Projeto_Listas.csproj|c:\\users\\cauef\\source\\repos\\projeto_listas\\projeto_listas\\models\\exemplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB7D2DE-239C-4475-80AB-9A4D59B31ABB}|Projeto_Listas\\Projeto_Listas.csproj|solutionrelative:projeto_listas\\models\\exemplar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB7D2DE-239C-4475-80AB-9A4D59B31ABB}|Projeto_Listas\\Projeto_Listas.csproj|c:\\users\\cauef\\source\\repos\\projeto_listas\\projeto_listas\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB7D2DE-239C-4475-80AB-9A4D59B31ABB}|Projeto_Listas\\Projeto_Listas.csproj|solutionrelative:projeto_listas\\models\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB7D2DE-239C-4475-80AB-9A4D59B31ABB}|Projeto_Listas\\Projeto_Listas.csproj|c:\\users\\cauef\\source\\repos\\projeto_listas\\projeto_listas\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAB7D2DE-239C-4475-80AB-9A4D59B31ABB}|Projeto_Listas\\Projeto_Listas.csproj|solutionrelative:projeto_listas\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdicionarLivro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Listas\\Projeto_Listas\\AdicionarLivro.Designer.cs",
+              "RelativeDocumentMoniker": "Projeto_Listas\\AdicionarLivro.Designer.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Listas\\Projeto_Listas\\AdicionarLivro.Designer.cs*",
+              "RelativeToolTip": "Projeto_Listas\\AdicionarLivro.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T03:13:12.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdicionarLivro.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Listas\\Projeto_Listas\\AdicionarLivro.cs",
+              "RelativeDocumentMoniker": "Projeto_Listas\\AdicionarLivro.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Listas\\Projeto_Listas\\AdicionarLivro.cs [Projeto]",
+              "RelativeToolTip": "Projeto_Listas\\AdicionarLivro.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T03:13:07.37Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Listas\\Projeto_Listas\\MenuForm.Designer.cs",
+              "RelativeDocumentMoniker": "Projeto_Listas\\MenuForm.Designer.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Listas\\Projeto_Listas\\MenuForm.Designer.cs*",
+              "RelativeToolTip": "Projeto_Listas\\MenuForm.Designer.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T03:11:09.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livros.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Listas\\Projeto_Listas\\Models\\Livros.cs",
+              "RelativeDocumentMoniker": "Projeto_Listas\\Models\\Livros.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Listas\\Projeto_Listas\\Models\\Livros.cs*",
+              "RelativeToolTip": "Projeto_Listas\\Models\\Livros.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T03:10:41.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Listas\\Projeto_Listas\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "Projeto_Listas\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Listas\\Projeto_Listas\\Models\\Livro.cs*",
+              "RelativeToolTip": "Projeto_Listas\\Models\\Livro.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T03:09:59.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exemplar.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Listas\\Projeto_Listas\\Models\\Exemplar.cs",
+              "RelativeDocumentMoniker": "Projeto_Listas\\Models\\Exemplar.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Listas\\Projeto_Listas\\Models\\Exemplar.cs*",
+              "RelativeToolTip": "Projeto_Listas\\Models\\Exemplar.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T03:08:58.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Emprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Listas\\Projeto_Listas\\Models\\Emprestimo.cs",
+              "RelativeDocumentMoniker": "Projeto_Listas\\Models\\Emprestimo.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Listas\\Projeto_Listas\\Models\\Emprestimo.cs*",
+              "RelativeToolTip": "Projeto_Listas\\Models\\Emprestimo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T03:05:34.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuForm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Listas\\Projeto_Listas\\MenuForm.cs",
+              "RelativeDocumentMoniker": "Projeto_Listas\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Listas\\Projeto_Listas\\MenuForm.cs [Projeto]*",
+              "RelativeToolTip": "Projeto_Listas\\MenuForm.cs [Projeto]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T02:49:44.012Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
