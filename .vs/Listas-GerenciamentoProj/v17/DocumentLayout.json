@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|c:\\users\\cauef\\source\\repos\\listas-gerenciamentoproj\\listas-gerenciamentoproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|solutionrelative:listas-gerenciamentoproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|c:\\users\\cauef\\source\\repos\\listas-gerenciamentoproj\\listas-gerenciamentoproj\\forms\\addtaskform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|solutionrelative:listas-gerenciamentoproj\\forms\\addtaskform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|c:\\users\\cauef\\source\\repos\\listas-gerenciamentoproj\\listas-gerenciamentoproj\\forms\\addtaskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|solutionrelative:listas-gerenciamentoproj\\forms\\addtaskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|c:\\users\\cauef\\source\\repos\\listas-gerenciamentoproj\\listas-gerenciamentoproj\\forms\\managetasksform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|solutionrelative:listas-gerenciamentoproj\\forms\\managetasksform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|c:\\users\\cauef\\source\\repos\\listas-gerenciamentoproj\\listas-gerenciamentoproj\\forms\\managetasksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|solutionrelative:listas-gerenciamentoproj\\forms\\managetasksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|c:\\users\\cauef\\source\\repos\\listas-gerenciamentoproj\\listas-gerenciamentoproj\\forms\\addprojectform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|solutionrelative:listas-gerenciamentoproj\\forms\\addprojectform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|c:\\users\\cauef\\source\\repos\\listas-gerenciamentoproj\\listas-gerenciamentoproj\\forms\\addprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|solutionrelative:listas-gerenciamentoproj\\forms\\addprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|c:\\users\\cauef\\source\\repos\\listas-gerenciamentoproj\\listas-gerenciamentoproj\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|solutionrelative:listas-gerenciamentoproj\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|c:\\users\\cauef\\source\\repos\\listas-gerenciamentoproj\\listas-gerenciamentoproj\\models\\projetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|solutionrelative:listas-gerenciamentoproj\\models\\projetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|c:\\users\\cauef\\source\\repos\\listas-gerenciamentoproj\\listas-gerenciamentoproj\\models\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|solutionrelative:listas-gerenciamentoproj\\models\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|c:\\users\\cauef\\source\\repos\\listas-gerenciamentoproj\\listas-gerenciamentoproj\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|solutionrelative:listas-gerenciamentoproj\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|c:\\users\\cauef\\source\\repos\\listas-gerenciamentoproj\\listas-gerenciamentoproj\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3B45D7C-D2B9-4E35-A617-BF651603FED2}|Listas-GerenciamentoProj\\Listas-GerenciamentoProj.csproj|solutionrelative:listas-gerenciamentoproj\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddTaskForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Forms\\AddTaskForm.Designer.cs",
+              "RelativeDocumentMoniker": "Listas-GerenciamentoProj\\Forms\\AddTaskForm.Designer.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Forms\\AddTaskForm.Designer.cs",
+              "RelativeToolTip": "Listas-GerenciamentoProj\\Forms\\AddTaskForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T02:25:33.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddTaskForm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Forms\\AddTaskForm.cs",
+              "RelativeDocumentMoniker": "Listas-GerenciamentoProj\\Forms\\AddTaskForm.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Forms\\AddTaskForm.cs [Projeto]",
+              "RelativeToolTip": "Listas-GerenciamentoProj\\Forms\\AddTaskForm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T02:25:30.337Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageTasksForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Forms\\ManageTasksForm.Designer.cs",
+              "RelativeDocumentMoniker": "Listas-GerenciamentoProj\\Forms\\ManageTasksForm.Designer.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Forms\\ManageTasksForm.Designer.cs",
+              "RelativeToolTip": "Listas-GerenciamentoProj\\Forms\\ManageTasksForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T02:24:47.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageTasksForm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Forms\\ManageTasksForm.cs",
+              "RelativeDocumentMoniker": "Listas-GerenciamentoProj\\Forms\\ManageTasksForm.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Forms\\ManageTasksForm.cs [Projeto]",
+              "RelativeToolTip": "Listas-GerenciamentoProj\\Forms\\ManageTasksForm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T02:24:44.054Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddProjectForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Forms\\AddProjectForm.Designer.cs",
+              "RelativeDocumentMoniker": "Listas-GerenciamentoProj\\Forms\\AddProjectForm.Designer.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Forms\\AddProjectForm.Designer.cs",
+              "RelativeToolTip": "Listas-GerenciamentoProj\\Forms\\AddProjectForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T02:23:36.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddProjectForm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Forms\\AddProjectForm.cs",
+              "RelativeDocumentMoniker": "Listas-GerenciamentoProj\\Forms\\AddProjectForm.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Forms\\AddProjectForm.cs [Projeto]",
+              "RelativeToolTip": "Listas-GerenciamentoProj\\Forms\\AddProjectForm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T02:23:34.993Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Forms\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Listas-GerenciamentoProj\\Forms\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Forms\\MainForm.Designer.cs",
+              "RelativeToolTip": "Listas-GerenciamentoProj\\Forms\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T02:22:39.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Program.cs",
+              "RelativeDocumentMoniker": "Listas-GerenciamentoProj\\Program.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Program.cs",
+              "RelativeToolTip": "Listas-GerenciamentoProj\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T02:15:46.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Projetos.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Models\\Projetos.cs",
+              "RelativeDocumentMoniker": "Listas-GerenciamentoProj\\Models\\Projetos.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Models\\Projetos.cs",
+              "RelativeToolTip": "Listas-GerenciamentoProj\\Models\\Projetos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T02:21:20.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Projeto.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Models\\Projeto.cs",
+              "RelativeDocumentMoniker": "Listas-GerenciamentoProj\\Models\\Projeto.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Models\\Projeto.cs",
+              "RelativeToolTip": "Listas-GerenciamentoProj\\Models\\Projeto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T02:20:34.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Models\\Tarefa.cs",
+              "RelativeDocumentMoniker": "Listas-GerenciamentoProj\\Models\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Models\\Tarefa.cs",
+              "RelativeToolTip": "Listas-GerenciamentoProj\\Models\\Tarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T02:19:11.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Listas-GerenciamentoProj\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Listas-GerenciamentoProj\\Listas-GerenciamentoProj\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "Listas-GerenciamentoProj\\Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T02:15:43.95Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
