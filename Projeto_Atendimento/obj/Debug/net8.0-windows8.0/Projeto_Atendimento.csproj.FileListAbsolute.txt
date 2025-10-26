@@ -1,0 +1,17 @@
+C:\Users\cauef\source\repos\Projeto_Atendimento\Projeto_Atendimento\obj\Debug\net8.0-windows8.0\Projeto_Atendimento.Form1.resources
+C:\Users\cauef\source\repos\Projeto_Atendimento\Projeto_Atendimento\obj\Debug\net8.0-windows8.0\Projeto_Atendimento.csproj.GenerateResource.cache
+C:\Users\cauef\source\repos\Projeto_Atendimento\Projeto_Atendimento\obj\Debug\net8.0-windows8.0\Projeto_Atendimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauef\source\repos\Projeto_Atendimento\Projeto_Atendimento\obj\Debug\net8.0-windows8.0\Projeto_Atendimento.AssemblyInfoInputs.cache
+C:\Users\cauef\source\repos\Projeto_Atendimento\Projeto_Atendimento\obj\Debug\net8.0-windows8.0\Projeto_Atendimento.AssemblyInfo.cs
+C:\Users\cauef\source\repos\Projeto_Atendimento\Projeto_Atendimento\obj\Debug\net8.0-windows8.0\Projeto_Atendimento.csproj.CoreCompileInputs.cache
+C:\Users\cauef\source\repos\Projeto_Atendimento\Projeto_Atendimento\obj\Debug\net8.0-windows8.0\Projeto_Atendimento.sourcelink.json
+C:\Users\cauef\source\repos\Projeto_Atendimento\Projeto_Atendimento\bin\Debug\net8.0-windows8.0\Projeto_Atendimento.exe
+C:\Users\cauef\source\repos\Projeto_Atendimento\Projeto_Atendimento\bin\Debug\net8.0-windows8.0\Projeto_Atendimento.deps.json
+C:\Users\cauef\source\repos\Projeto_Atendimento\Projeto_Atendimento\bin\Debug\net8.0-windows8.0\Projeto_Atendimento.runtimeconfig.json
+C:\Users\cauef\source\repos\Projeto_Atendimento\Projeto_Atendimento\bin\Debug\net8.0-windows8.0\Projeto_Atendimento.dll
+C:\Users\cauef\source\repos\Projeto_Atendimento\Projeto_Atendimento\bin\Debug\net8.0-windows8.0\Projeto_Atendimento.pdb
+C:\Users\cauef\source\repos\Projeto_Atendimento\Projeto_Atendimento\obj\Debug\net8.0-windows8.0\Projeto_Atendimento.dll
+C:\Users\cauef\source\repos\Projeto_Atendimento\Projeto_Atendimento\obj\Debug\net8.0-windows8.0\refint\Projeto_Atendimento.dll
+C:\Users\cauef\source\repos\Projeto_Atendimento\Projeto_Atendimento\obj\Debug\net8.0-windows8.0\Projeto_Atendimento.pdb
+C:\Users\cauef\source\repos\Projeto_Atendimento\Projeto_Atendimento\obj\Debug\net8.0-windows8.0\Projeto_Atendimento.genruntimeconfig.cache
+C:\Users\cauef\source\repos\Projeto_Atendimento\Projeto_Atendimento\obj\Debug\net8.0-windows8.0\ref\Projeto_Atendimento.dll

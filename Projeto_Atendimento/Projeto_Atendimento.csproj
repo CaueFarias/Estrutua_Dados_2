@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>Projeto_Atendimento</AssemblyName>
+    <StartupObject>Projeto_Atendimento.Program</StartupObject>
+    <RootNamespace>Projeto_Atendimento</RootNamespace>
+  </PropertyGroup>
+
+</Project>
