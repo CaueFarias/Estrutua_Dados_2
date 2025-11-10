@@ -1,0 +1,15 @@
+C:\Users\cauef\source\repos\Fila_Medicamento\Fila_Medicamento\bin\Debug\net8.0\Fila_Medicamento.exe
+C:\Users\cauef\source\repos\Fila_Medicamento\Fila_Medicamento\bin\Debug\net8.0\Fila_Medicamento.deps.json
+C:\Users\cauef\source\repos\Fila_Medicamento\Fila_Medicamento\bin\Debug\net8.0\Fila_Medicamento.runtimeconfig.json
+C:\Users\cauef\source\repos\Fila_Medicamento\Fila_Medicamento\bin\Debug\net8.0\Fila_Medicamento.dll
+C:\Users\cauef\source\repos\Fila_Medicamento\Fila_Medicamento\bin\Debug\net8.0\Fila_Medicamento.pdb
+C:\Users\cauef\source\repos\Fila_Medicamento\Fila_Medicamento\obj\Debug\net8.0\Fila_Medicamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauef\source\repos\Fila_Medicamento\Fila_Medicamento\obj\Debug\net8.0\Fila_Medicamento.AssemblyInfoInputs.cache
+C:\Users\cauef\source\repos\Fila_Medicamento\Fila_Medicamento\obj\Debug\net8.0\Fila_Medicamento.AssemblyInfo.cs
+C:\Users\cauef\source\repos\Fila_Medicamento\Fila_Medicamento\obj\Debug\net8.0\Fila_Medicamento.csproj.CoreCompileInputs.cache
+C:\Users\cauef\source\repos\Fila_Medicamento\Fila_Medicamento\obj\Debug\net8.0\Fila_Medicamento.sourcelink.json
+C:\Users\cauef\source\repos\Fila_Medicamento\Fila_Medicamento\obj\Debug\net8.0\Fila_Medicamento.dll
+C:\Users\cauef\source\repos\Fila_Medicamento\Fila_Medicamento\obj\Debug\net8.0\refint\Fila_Medicamento.dll
+C:\Users\cauef\source\repos\Fila_Medicamento\Fila_Medicamento\obj\Debug\net8.0\Fila_Medicamento.pdb
+C:\Users\cauef\source\repos\Fila_Medicamento\Fila_Medicamento\obj\Debug\net8.0\Fila_Medicamento.genruntimeconfig.cache
+C:\Users\cauef\source\repos\Fila_Medicamento\Fila_Medicamento\obj\Debug\net8.0\ref\Fila_Medicamento.dll
