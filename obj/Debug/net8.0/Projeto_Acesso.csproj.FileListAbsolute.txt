@@ -1,0 +1,15 @@
+C:\Users\cauef\source\repos\Projeto_Acesso\Projeto_Acesso\bin\Debug\net8.0\Projeto_Acesso.exe
+C:\Users\cauef\source\repos\Projeto_Acesso\Projeto_Acesso\bin\Debug\net8.0\Projeto_Acesso.deps.json
+C:\Users\cauef\source\repos\Projeto_Acesso\Projeto_Acesso\bin\Debug\net8.0\Projeto_Acesso.runtimeconfig.json
+C:\Users\cauef\source\repos\Projeto_Acesso\Projeto_Acesso\bin\Debug\net8.0\Projeto_Acesso.dll
+C:\Users\cauef\source\repos\Projeto_Acesso\Projeto_Acesso\bin\Debug\net8.0\Projeto_Acesso.pdb
+C:\Users\cauef\source\repos\Projeto_Acesso\Projeto_Acesso\obj\Debug\net8.0\Projeto_Acesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauef\source\repos\Projeto_Acesso\Projeto_Acesso\obj\Debug\net8.0\Projeto_Acesso.AssemblyInfoInputs.cache
+C:\Users\cauef\source\repos\Projeto_Acesso\Projeto_Acesso\obj\Debug\net8.0\Projeto_Acesso.AssemblyInfo.cs
+C:\Users\cauef\source\repos\Projeto_Acesso\Projeto_Acesso\obj\Debug\net8.0\Projeto_Acesso.csproj.CoreCompileInputs.cache
+C:\Users\cauef\source\repos\Projeto_Acesso\Projeto_Acesso\obj\Debug\net8.0\Projeto_Acesso.sourcelink.json
+C:\Users\cauef\source\repos\Projeto_Acesso\Projeto_Acesso\obj\Debug\net8.0\Projeto_Acesso.dll
+C:\Users\cauef\source\repos\Projeto_Acesso\Projeto_Acesso\obj\Debug\net8.0\refint\Projeto_Acesso.dll
+C:\Users\cauef\source\repos\Projeto_Acesso\Projeto_Acesso\obj\Debug\net8.0\Projeto_Acesso.pdb
+C:\Users\cauef\source\repos\Projeto_Acesso\Projeto_Acesso\obj\Debug\net8.0\Projeto_Acesso.genruntimeconfig.cache
+C:\Users\cauef\source\repos\Projeto_Acesso\Projeto_Acesso\obj\Debug\net8.0\ref\Projeto_Acesso.dll
