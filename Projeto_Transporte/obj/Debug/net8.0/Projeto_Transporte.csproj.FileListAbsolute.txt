@@ -1,0 +1,15 @@
+C:\Users\cauef\source\repos\Projeto_Transporte\Projeto_Transporte\bin\Debug\net8.0\Projeto_Transporte.exe
+C:\Users\cauef\source\repos\Projeto_Transporte\Projeto_Transporte\bin\Debug\net8.0\Projeto_Transporte.deps.json
+C:\Users\cauef\source\repos\Projeto_Transporte\Projeto_Transporte\bin\Debug\net8.0\Projeto_Transporte.runtimeconfig.json
+C:\Users\cauef\source\repos\Projeto_Transporte\Projeto_Transporte\bin\Debug\net8.0\Projeto_Transporte.dll
+C:\Users\cauef\source\repos\Projeto_Transporte\Projeto_Transporte\bin\Debug\net8.0\Projeto_Transporte.pdb
+C:\Users\cauef\source\repos\Projeto_Transporte\Projeto_Transporte\obj\Debug\net8.0\Projeto_Transporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauef\source\repos\Projeto_Transporte\Projeto_Transporte\obj\Debug\net8.0\Projeto_Transporte.AssemblyInfoInputs.cache
+C:\Users\cauef\source\repos\Projeto_Transporte\Projeto_Transporte\obj\Debug\net8.0\Projeto_Transporte.AssemblyInfo.cs
+C:\Users\cauef\source\repos\Projeto_Transporte\Projeto_Transporte\obj\Debug\net8.0\Projeto_Transporte.csproj.CoreCompileInputs.cache
+C:\Users\cauef\source\repos\Projeto_Transporte\Projeto_Transporte\obj\Debug\net8.0\Projeto_Transporte.sourcelink.json
+C:\Users\cauef\source\repos\Projeto_Transporte\Projeto_Transporte\obj\Debug\net8.0\Projeto_Transporte.dll
+C:\Users\cauef\source\repos\Projeto_Transporte\Projeto_Transporte\obj\Debug\net8.0\refint\Projeto_Transporte.dll
+C:\Users\cauef\source\repos\Projeto_Transporte\Projeto_Transporte\obj\Debug\net8.0\Projeto_Transporte.pdb
+C:\Users\cauef\source\repos\Projeto_Transporte\Projeto_Transporte\obj\Debug\net8.0\Projeto_Transporte.genruntimeconfig.cache
+C:\Users\cauef\source\repos\Projeto_Transporte\Projeto_Transporte\obj\Debug\net8.0\ref\Projeto_Transporte.dll

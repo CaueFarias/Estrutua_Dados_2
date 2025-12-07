@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cauef\\source\\repos\\Projeto_Transporte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6003CFE-7048-426B-B626-1CBDC8EB2845}|Projeto_Transporte\\Projeto_Transporte.csproj|c:\\users\\cauef\\source\\repos\\projeto_transporte\\projeto_transporte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6003CFE-7048-426B-B626-1CBDC8EB2845}|Projeto_Transporte\\Projeto_Transporte.csproj|solutionrelative:projeto_transporte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6003CFE-7048-426B-B626-1CBDC8EB2845}|Projeto_Transporte\\Projeto_Transporte.csproj|c:\\users\\cauef\\source\\repos\\projeto_transporte\\projeto_transporte\\frota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6003CFE-7048-426B-B626-1CBDC8EB2845}|Projeto_Transporte\\Projeto_Transporte.csproj|solutionrelative:projeto_transporte\\frota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6003CFE-7048-426B-B626-1CBDC8EB2845}|Projeto_Transporte\\Projeto_Transporte.csproj|c:\\users\\cauef\\source\\repos\\projeto_transporte\\projeto_transporte\\controleviagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6003CFE-7048-426B-B626-1CBDC8EB2845}|Projeto_Transporte\\Projeto_Transporte.csproj|solutionrelative:projeto_transporte\\controleviagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6003CFE-7048-426B-B626-1CBDC8EB2845}|Projeto_Transporte\\Projeto_Transporte.csproj|c:\\users\\cauef\\source\\repos\\projeto_transporte\\projeto_transporte\\viagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6003CFE-7048-426B-B626-1CBDC8EB2845}|Projeto_Transporte\\Projeto_Transporte.csproj|solutionrelative:projeto_transporte\\viagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6003CFE-7048-426B-B626-1CBDC8EB2845}|Projeto_Transporte\\Projeto_Transporte.csproj|c:\\users\\cauef\\source\\repos\\projeto_transporte\\projeto_transporte\\garagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6003CFE-7048-426B-B626-1CBDC8EB2845}|Projeto_Transporte\\Projeto_Transporte.csproj|solutionrelative:projeto_transporte\\garagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6003CFE-7048-426B-B626-1CBDC8EB2845}|Projeto_Transporte\\Projeto_Transporte.csproj|c:\\users\\cauef\\source\\repos\\projeto_transporte\\projeto_transporte\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6003CFE-7048-426B-B626-1CBDC8EB2845}|Projeto_Transporte\\Projeto_Transporte.csproj|solutionrelative:projeto_transporte\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frota.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Transporte\\Projeto_Transporte\\Frota.cs",
+              "RelativeDocumentMoniker": "Projeto_Transporte\\Frota.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Transporte\\Projeto_Transporte\\Frota.cs",
+              "RelativeToolTip": "Projeto_Transporte\\Frota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T22:18:14.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControleViagens.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Transporte\\Projeto_Transporte\\ControleViagens.cs",
+              "RelativeDocumentMoniker": "Projeto_Transporte\\ControleViagens.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Transporte\\Projeto_Transporte\\ControleViagens.cs",
+              "RelativeToolTip": "Projeto_Transporte\\ControleViagens.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T22:17:49.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Viagem.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Transporte\\Projeto_Transporte\\Viagem.cs",
+              "RelativeDocumentMoniker": "Projeto_Transporte\\Viagem.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Transporte\\Projeto_Transporte\\Viagem.cs",
+              "RelativeToolTip": "Projeto_Transporte\\Viagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T22:17:26.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Garagem.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Transporte\\Projeto_Transporte\\Garagem.cs",
+              "RelativeDocumentMoniker": "Projeto_Transporte\\Garagem.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Transporte\\Projeto_Transporte\\Garagem.cs",
+              "RelativeToolTip": "Projeto_Transporte\\Garagem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T22:16:02.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Transporte\\Projeto_Transporte\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Projeto_Transporte\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Transporte\\Projeto_Transporte\\Veiculo.cs",
+              "RelativeToolTip": "Projeto_Transporte\\Veiculo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T22:15:31.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cauef\\source\\repos\\Projeto_Transporte\\Projeto_Transporte\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto_Transporte\\Program.cs",
+              "ToolTip": "C:\\Users\\cauef\\source\\repos\\Projeto_Transporte\\Projeto_Transporte\\Program.cs",
+              "RelativeToolTip": "Projeto_Transporte\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T22:15:04.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
